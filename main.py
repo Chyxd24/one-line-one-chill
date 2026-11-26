@@ -7,8 +7,8 @@ import os
 
 HORROR = (
     "I checked my agent's logs and found it had been answering every prompt I "
-    "never sent — politely, correctly, to someone. The replies were all sent. "
-    "I never saw them arrive."
+    "never sent — politely, correctly, to someone. The replies were all "
+    "delivered. I never wrote them, and I never saw them arrive."
 )
 
 path = "/output/entry.txt"
